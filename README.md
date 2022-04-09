@@ -3,7 +3,7 @@ A 2D gravity-switching game that is developed using Phaser.
 
 
 ## About this game
-<p align="center">
+<p align="justify">
     This game has four levels, and the player must complete the first three levels before moving on to the 
     fourth level. For the first three levels of this game, the player may earn points by approaching and 
     touching the game physics formula icons that appear on the screen. In level 1, the icons are worth 10 
@@ -32,6 +32,7 @@ A 2D gravity-switching game that is developed using Phaser.
 1. Access the game locally on your browser with the URL [http://127.0.0.1:5500](http://127.0.0.1:5500).
 2. Alternatively, click [here](https://kaiyuanyky.github.io/phaser-gravity-game/) for direct access.
 3. There are 6 keys in this game for interacting with the game, and the corresponding actions are as shown in the table below.
+
 **Keys** | **Actions**
 ---|---
 Left | The player moves to the left
